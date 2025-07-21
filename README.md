@@ -1,11 +1,5 @@
 # Railway-Track-Damage-Classification-Based-on-Image-Analysis
 
-eu escrevi esse readme , acha que precisa melhorar?
-
-
-
-# Railway-Track-Damage-Classification-Based-on-Image-Analysis
-
 # CNN-Based Classification of Railway Track Defects
 
 This repository contains a Convolutional Neural Network (CNN) implementation based on the ResNet50 architecture for classifying surface defects in railway tracks. The pipeline supports preprocessing, training, validation, evaluation, and exporting of results for four defect types: **Squats**, **Flakings**, **Spallings**, and **Shellings**.
